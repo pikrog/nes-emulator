@@ -8,7 +8,7 @@ A simple NES Emulator. Features:
 - reading INES & NES 2.0 (.nes) ROMs,
 - NTSC mode only,
 - supported mappers:
-    - UNROM (0),
+    - NROM (0),
 - basic controls.
 
 TODOs:
